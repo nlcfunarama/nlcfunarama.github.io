@@ -45,14 +45,14 @@ url: "" # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-twitter_url:
-facebook_url:
+twitter_url: https://twitter.com/59thyegscouts
+facebook_url: https://facebook.com/59thedmontonscouts
 googleplus_url:
-instagram_url:
+instagram_url: https://facebook.com/59thedmontonscouts
 linkedin_url:
 github_url:
 pinterest_url:
-slack_url:
+slack_url: https://nlcfunarama.slack.com
 dribbble_url:
 
 # Google Analytics Tracking ID goes here:
