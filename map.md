@@ -17,6 +17,6 @@ To reach the Society's building, follow these directions:
 <li>Proceed until you reach the Society's building</li>
 </ol>
 
-Unfortunately, neither Google Maps nor Bing Maps has been updated to reflect recent residential developments in the area of the Society, so directions provided by either service will send you on a different route. The Society has provided the map below as a guide to reaching their site.
+Unfortunately, neither Google Maps nor Bing Maps has been updated to reflect recent residential developments in the area of the Society, so directions provided by either service will send you route that may not exist anymore. The Society has provided the map below as a guide to reaching their site.
 
 <a href="#" class="image fit"><img src="{{ 'assets/images/otsmap.jpg' | relative_url }}" alt="Oilfield Technical Society" /></a>
