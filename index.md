@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: NLC Funarama 2020
+title: NLC Funarama 2020 - The Mystery at Funarama!
 icon: fa-home
 order: 1
 ---
