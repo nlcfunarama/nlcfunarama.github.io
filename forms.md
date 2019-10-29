@@ -19,7 +19,7 @@ Payments by cheque should be made out to <b>Scouts Canada Events</b>.
 
 ## Camp Details
 
-<b>Funarama 2020 - The Mystery at Funarama</b> begins on Friday, February 7th; participants should plan to be at the <a href="https://www.edmonton-ots.com/">Oilfield Technical Society</a>. See the <a href="./map.html">Map page</a> for the Society's address and an embedded map of the area.
+<b>Funarama 2020 - The Mystery at Funarama</b> begins on Friday, February 7th; participants should plan to be at the <a href="https://www.edmonton-ots.com/">Oilfield Technical Society</a>. See the <a href="../map.html">Map page</a> for the Society's address and an embedded map of the area.
 
 <b>Drop Off:</b> 6:00 PM, Friday, February 7th, 2020
 <b>Pick Up:</b> 11:30 AM, Sunday, Febrary 9th, 2020
