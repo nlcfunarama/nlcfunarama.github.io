@@ -5,8 +5,6 @@ layout: "page"
 icon: fa-flag-checkered
 order: 4
 ---
-<a href="#" class="image featured"><img src="assets/images/pic09.jpg" alt="" /></a>
-
 ## Kub Kar Specifications
 Kub Kars must meet -- not exceed! -- the following size and weight limitations in order to take part in the Kub Kar Rally at <b>Funarama 2020 - The Mystery at Funarama</b>:
 
@@ -21,6 +19,8 @@ Kub Kars must meet -- not exceed! -- the following size and weight limitations i
 </ul>
 
 Kars which do not meet these specifications will -- to the limits of the abilities and tools of the on-site pit crew -- be modified to meet them. However, Cub Scouts do have the option to leave their Kars unmodified, and to build Kars which wildly exceed the above limitations; these Kars cannot take part in the normal races, but there will be an exhibition race for off-spec Kars on Sunday, February 9th, 2020.
+
+<a href="#" class="image featured"><img src="assets/images/pic09.jpg" alt="" /></a>
 
 ## Kub Kar Rules
 In addition to meeting the above size and weight requirements, there are additional rules which all Kub Kars must follow in order to take part in the Kub Kar Rally at <b>Funarama 2020 - The Mystery at Funarama</b>:
