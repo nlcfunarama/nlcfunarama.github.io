@@ -5,7 +5,6 @@ layout: "page"
 icon: fa-sticky-note
 order: 4
 ---
-
 ## Registration
 Registration for <b>Funarama 2020 - The Mystery at Funarama</b> opens on November 1st, 2019. 
 
