@@ -8,9 +8,9 @@ order: 4
 ## Registration
 Registration for <b>Funarama 2020 - The Mystery at Funarama</b> opens on November 1st, 2019. 
 
-<a href="#" class="button scrolly">Registration Form Coming Soon...</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdyI3x7J99EY38RXDT1K4daf2VadTUH4QtJ1Hs_u2ksvC4AXA/viewform?vc=0&c=0&w=1&usp=mail_form_link" class="button scrolly">Register Online</a>
 
-The registration fee for the camp will be <b>$55 per person</b>
+The registration fee for the camp will be <b>$55 per person</b>.
 
 Registration will be open to the first 200 participants. We expect to fill all 200 spots quite quickly, so don't delay in submitting your registration! Camp fees must be received by Northern Lights Council within two weeks of the registration form being submitted; unpaid reservation spots may be released to accommodate registration demand if fees are not paid within this time frame. (Fees are non-refundable.)
 
