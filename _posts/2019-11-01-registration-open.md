@@ -3,8 +3,6 @@ title: Registration Update
 author: Akela
 layout: post
 ---
-## Registration Now Open!
-
 Registration for <b>Funarama 2020 - The Mystery at Funarama</b> is now officially open. Head on over to  the <a href="../../../forms.html">Registration and Forms</a> page to find a link to the online registration form.
 
 A few notes about how we are handling online registration:
