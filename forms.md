@@ -12,9 +12,9 @@ Registration for <b>Funarama 2020 - The Mystery at Funarama</b> is now open!
 
 The registration fee for the camp will be <b>$55 per person</b>.
 
-Registration will be open to the first 200 participants. We expect to fill all 200 spots quite quickly, so don't delay in submitting your registration! Camp fees must be received by Northern Lights Council within two weeks of the registration form being submitted; unpaid reservation spots may be released to accommodate registration demand if fees are not paid within this time frame. (Fees are non-refundable.)
+Registration will be open to the first 200 participants. We expect to fill all 200 spots quite quickly, so don't delay in submitting your registration! Camp fees must be received by the Funarama organizing committee within two weeks of the registration form being submitted; unpaid reservation spots may be released to accommodate registration demand if fees are not paid within this time frame. (Fees are non-refundable.)
 
-Payments by cheque should be made out to <b>Scouts Canada Events</b>.
+Payments by cheque should be made out to <b>Scouts Canada Events</b>. Cheques should be delivered to
 
 ## Camp Details
 

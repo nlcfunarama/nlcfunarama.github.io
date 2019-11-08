@@ -3,6 +3,6 @@ title: Chucksled Races
 subtitle: The Running of the Cubsicles!
 layout: "page"
 icon: fa-snowflake
-order: 4
+order: 5
 ---
 Coming soon...
