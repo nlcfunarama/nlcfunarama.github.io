@@ -3,7 +3,7 @@ title: Kub Kar Races
 subtitle: A Funarama staple!
 layout: "page"
 icon: fa-flag-checkered
-order: 4
+order: 5
 ---
 ## Kub Kar Races
 
