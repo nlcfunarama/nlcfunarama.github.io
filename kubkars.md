@@ -5,6 +5,12 @@ layout: "page"
 icon: fa-flag-checkered
 order: 4
 ---
+## Kub Kar Races
+
+Kub Kar races are a central event at <b>Funarama 2020 - The Mystery at Funarama</b>; youth will race their Kub Kars throughout the day on Saturday, and then the finals and off-spec demonstration races will take place on Sunday.
+
+<b>All Cubs must bring their own Kub Kars to camp; there will not be an opportunity to construct Kars during the weekend.</b>
+
 ## Kub Kar Specifications
 Kub Kars must meet -- not exceed! -- the following size and weight limitations in order to take part in the Kub Kar Rally at <b>Funarama 2020 - The Mystery at Funarama</b>:
 
