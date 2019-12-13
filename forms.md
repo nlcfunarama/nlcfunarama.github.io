@@ -6,15 +6,15 @@ icon: fa-sticky-note
 order: 4
 ---
 ## Registration
-Registration for <b>Funarama 2020 - The Mystery at Funarama</b> is now open! 
+Registration for <b>Funarama 2020 - The Mystery at Funarama</b> is now full; we cannot accept additional registrations at this time. Thank you, everyone, for your interest in this camp!
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdyI3x7J99EY38RXDT1K4daf2VadTUH4QtJ1Hs_u2ksvC4AXA/viewform?vc=0&c=0&w=1&usp=mail_form_link" class="button scrolly">Register Online</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdyI3x7J99EY38RXDT1K4daf2VadTUH4QtJ1Hs_u2ksvC4AXA/viewform?vc=0&c=0&w=1&usp=mail_form_link" class="button scrolly">Edit Registration</a>
 
 The registration fee for the camp will be <b>$55 per person</b>.
 
 Registration will be open to the first 200 participants. We expect to fill all 200 spots quite quickly, so don't delay in submitting your registration! Camp fees must be received by the Funarama organizing committee within two weeks of the registration form being submitted; unpaid reservation spots may be released to accommodate registration demand if fees are not paid within this time frame. (Fees are non-refundable.)
 
-Payments by cheque should be made out to <b>Scouts Canada Events</b>. Cheques should be delivered to
+Payments by cheque should be made out to <b>Scouts Canada Events</b>. Cheques should be delivered to <b>1019 Hollands Point NW, Edmonton, AB T6R 3T1</b>.
 
 ## Camp Details
 
