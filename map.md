@@ -3,7 +3,7 @@ title: Location
 subtitle: How to Get to Funarama
 layout: "page"
 icon: fa-map-marked-alt
-order: 7
+order: 8
 ---
 <b>Funarama 2020 - The Mystery at Funarama</b> is being held at the <a href="https://www.edmonton-ots.com/">Oilfield Technical Society</a>, which is located at <strong>2104 156 Street SW</strong> in Edmonton, Alberta. 
 
