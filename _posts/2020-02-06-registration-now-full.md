@@ -1,10 +1,10 @@
 ---
-title: Funarama Is Full!
+title: Less Than 24 Hours Until Funarama Begins!
 author: Akela
 layout: post
 ---
-Registrations for <b>Funarama 2020 - The Mystery at Funarama</b> are now full; thank you everyone for your interest in this camp.
+It's late on Thursday (February 6th) evening as I'm typing this; the night before <b>Funarama</b>. The eve of <b>Funarama</b>, as the older way of saying it would go. In less than 24 hours, Cub Scouts, Scouters, and Offers of Service will descend on the <b>Oilfield Technical Society</b>, to take part in a variety of indoor and outdoor activities, and to hopefully have an absolute blast.
 
-If you've submitted a registration form -- that is, we know how many people you are bringing -- but have not yet submitted a cheque, please do so as soon as possible; the camp is accumulating a waitlist, and we will free up "past due" spots to accommodate this additional interest if need be.
+In a change from previous years, the weather forecast is looking rather favourable; Alberta went through its precipitous cold snap earlier this year than has been the norm over the last few years; the days of -40 C (and below!) seem to be well behind us. There was still an outdoor element to the <b>Funarama</b> program during those other years, of course, but we can do -- we expect to do -- much more with the Cubs this year in terms of getting them out into the snow. A high of -5 C (that's what the forecast for Saturday is, currently) is much better than a high of -35 C!
 
-Additionally, in looking at registrations, we have noticed that several groups have submitted a global list of allergies experienced by the contingent they will be bringing to camp. However, we know from experience that individuals can often manifest multiple allergies. We will be reaching out to these groups to further clarify allergy details (e.g. who has which allergies, how many people have a particular allergies, etc.) as we plan the meals for the camp.
+I look forward to seeing everyone at camp!
